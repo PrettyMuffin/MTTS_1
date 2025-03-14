@@ -9,6 +9,8 @@ Schede madri
 
 Processori
 
+## Periferiche
+
 --- 
 
 Elettronica Padovana
